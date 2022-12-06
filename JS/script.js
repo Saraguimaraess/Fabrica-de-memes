@@ -17,19 +17,19 @@ async function mapImageList() { //Única função: mapear as imagens
     const memesObject = [
         {
             "name": "Garotinha",
-            "path": "./pictures/chloe.jpg"
+            "path": "pictures/chloe.jpg"
         },
         {
             "name": "Gato 1",
-            "path": "./pictures/funny-cat1.png"
+            "path": "pictures/funny-cat1.png"
         },
         {
             "name": "Gato 2",
-            "path": "./pictures/funny-cat2.png"
+            "path": "pictures/funny-cat2.png"
         },
         {
             "name": "Menino meme",
-            "path": "./pictures/menino.png"
+            "path": "pictures/menino.png"
         },
     ]
     return memesObject;
